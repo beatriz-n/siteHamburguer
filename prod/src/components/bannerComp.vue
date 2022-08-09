@@ -16,7 +16,7 @@ export default{
     background-image:url('C:\Users\Usuario\Downloads\github\siteHamburguer\prod\public\img\burger.jpg');
     background-position: 0 -250px;
     background-size: cover;
-    height: 400px;
+    height: 500px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
