@@ -5,7 +5,7 @@
 </router-link>
 
 <router-link to="/">Home</router-link>
-<router-link to="/pedidosView">About</router-link>
+<router-link to="/pedidosView">Pedidos</router-link>
     </div>
 </template>
 

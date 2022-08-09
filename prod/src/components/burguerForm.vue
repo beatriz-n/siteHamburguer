@@ -34,7 +34,6 @@
   </div>
 </template>
 
-
 <script>
 import MessageComp from './messageComp.vue'
 export default{
@@ -48,7 +47,7 @@ export default{
             pao: null,
             carne: null,
             opcionais: [],
-            satatus: "Solicitado",
+            status: "Solicitado",
             msg: null
         };
     },
